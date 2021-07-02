@@ -1,0 +1,12 @@
+rootProject.name = 'AFBlockchain'
+include 'associate:clients'
+include 'associate:contracts'
+include 'associate:workflows'
+
+include 'university:clients'
+include 'university:contracts'
+include 'university:workflows'
+
+include ':core:contracts'
+include ':core:workflows'
+

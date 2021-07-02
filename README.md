@@ -1,6 +1,6 @@
 # PolyU AF Enterprise Blockchain
 
-##Introduction
+## Introduction
 AF Blockchain is to use blockchain technology to provide tamper-proof e-verified competency certificates for the challenge short courses. Once a student completes and passes a challenge short course, her or his competency certificate will be cryptographically signed by both AF faculty members and industry experts serving in the review panel, and uploaded onto a secured AF server. The competency certificate will be presented as e-badge on AF Blockchain. The verification of e-badge can be designed to show the image of certificate with info of AF Faculty members and Industry experts/company who signed the milestones of the training.
 
 
